@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dbrun/Desktop/GithubTempFolder/MonoGame/Pong/Pong/Content/Fonts/SpriteFont1.spritefont</SourceFile>
+  <SourceTime>2014-10-27T12:00:50-04:00</SourceTime>
+  <DestFile>C:/Users/dbrun/Desktop/GithubTempFolder/MonoGame/Pong/Pong/Content/bin/Windows/Fonts/SpriteFont1.xnb</DestFile>
+  <DestTime>2018-02-14T16:39:13.9740031-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

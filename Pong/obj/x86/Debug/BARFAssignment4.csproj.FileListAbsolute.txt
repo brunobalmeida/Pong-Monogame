@@ -1,0 +1,96 @@
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\BARFAssignment4.exe
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\BARFAssignment4.pdb
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.exe
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.pdb
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\BARFAssignment4.exe
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\BARFAssignment4.pdb
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.exe
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.pdb
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Sounds\applause1.xnb
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Sounds\click.xnb
+C:\Users\MainPC\Desktop\mono\BARFAssignment4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Sounds\ding.xnb
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\Ball.xnb
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\BatLeft.xnb
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\BatRight.xnb
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Images\Scorebar.xnb
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Sounds\applause1.xnb
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Sounds\click.xnb
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Sounds\ding.xnb
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\BARFAssignment4.exe
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\BARFAssignment4.pdb
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.csprojResolveAssemblyReference.cache
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.exe
+C:\Users\dbrun\Dropbox\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\BARFAssignment4\BARFAssignment4\obj\x86\Debug\BARFAssignment4.pdb
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Sounds\applause1.xnb
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Sounds\click.xnb
+C:\Users\dbrun\My Cloud\Backup Pen Drive\Computer Programmer - Conestoga\3rd Term\Object oriented Gaming\Assignment 4\BARFAssignment4\BARFAssignment4\bin\Windows\x86\Debug\Content\Sounds\ding.xnb
